@@ -148,9 +148,16 @@ z-index: 20;
 
 .eye-image {
 	position: fixed;
-	left: 55px;
-	top: 366px;
+	left: 7px;
+	top: 7px;
 	width: 20px;
+}
+
+.circle-eye {
+	position: fixed;
+	top: 40%;
+	left: 60%;
+	width: 50%;
 }
 
 
@@ -676,10 +683,14 @@ z-index: 20;
 }
 
 
+
+.circle-eye {
+	position: fixed;
+	top: 25%;
+	left: 65%;
+	width: 25%;
 }
-
-
-
+}
 
 
 
